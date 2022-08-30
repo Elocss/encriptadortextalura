@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #0A3871;   
+     
+}
+.container{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 20px;  
+    display: 5px; 
+    background: whitesmoke
+}
+.logo{
+    width: 10%;
+    float: left;
+    
+}
+.logoimg2{
+    text-align: center;
+}
+#imgDer{
+width: 30%;
+height: auto;
+float: right;
+display: flex;
+margin-top: 20px;
+}
+ 
+#textoEncriptado{
+   
+   
+    
+    width: 40%;
+    background: #d8d8d8;
+    
+    height: auto;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+
+.logomini {
+    font-size: 15px;
+  
+    margin-left: 50px;
+}
+#textoDesencriptado{
+    width: 30%;
+    margin-left: 40%;
+     
+    float: left;
+    background: #d8d8d8;
+    font-size: 15px;
+    border: none;
+    outline: none;
+}
+#texto{
+    text-align: right;
+    
+}
+#botonEncriptado{
+     
+    padding: 15px;
+    width: 15%;
+    height: 20%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #0A3871;
+    display: flex;
+
+}
+#botonDesencriptado{
+     
+    padding: 15px;
+    width: 15%;
+    height: 20%;
+    border-radius: 24px;
+    margin-left: 20%;
+    background: #0A3871; 
+}
+#botonCopiar{
+    padding: 10px;
+    width: 20%;
+    background: #0A3871; 
+    border-radius: 24px;
+    display: none;
+}
+ 
+ 
